@@ -1,0 +1,11 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:''@localhost/flask_blog",
+    "prod_uri": "mysql://root:''@localhost/flask_blog",
+    "tw_url": "https://www.facebook.com/Mahfujur.just",
+    "fb_url": "https://www.facebook.com/Mahfujur.just",
+    "git_url": "https://www.facebook.com/Mahfujur.just",
+  }
+}
